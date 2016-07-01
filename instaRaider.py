@@ -2,7 +2,7 @@
 """
 insta_raider.py
 
-usage: insta_raider.py [-h] -u USERNAME
+usage: insta_raider.py [-h] -u alpataaa
 
 @amirkurtovic
 
